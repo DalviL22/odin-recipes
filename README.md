@@ -1,1 +1,4 @@
 # odin-recipes
+This HTML project showcases a basic recipe website. The homepage provides links to recipes that each have an image, a decription about the food, and ingredient list, and instructions. The goal for this project was to practice basic but foundational HTML skills which include structuring a webpage, using different HTML tags, organizing files in directories, and creating clean mutli-page websites.
+
+Completing this project helped me reinforce fundamental skills needed to build static web pages and working with dfferent file paths. It also helped with understanding the best practices for project strucure, version control and documenting work using README files.
